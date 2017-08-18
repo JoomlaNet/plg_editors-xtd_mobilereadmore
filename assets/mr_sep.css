@@ -1,5 +1,5 @@
 /*
- * @package    Editors-XTD - Automatic mobile spoiler  Plugin
+ * @package    Button - Mobile readmore  plugin
  * @version    1.0.0
  * @author     JoomlaNet - joomlanet.ru
  * @copyright  Copyright (c) 2017 - 2017 JoomlaNet. All rights reserved.
