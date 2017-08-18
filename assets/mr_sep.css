@@ -1,0 +1,16 @@
+/*
+ * @package    Editors-XTD - Automatic mobile spoiler  Plugin
+ * @version    1.0.0
+ * @author     JoomlaNet - joomlanet.ru
+ * @copyright  Copyright (c) 2017 - 2017 JoomlaNet. All rights reserved.
+ * @license    GNU/GPL license: http://www.gnu.org/copyleft/gpl.html
+ * @link       https://joomlanet.ru
+ */
+
+hr#system-mobilereadmore {
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	padding: 15px 0;
+	background: #f5f5f5 url(/plugins/editors-xtd/mobilereadmore/assets/mr.png) no-repeat center;
+}
+

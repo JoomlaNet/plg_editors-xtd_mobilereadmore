@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.7" type="plugin" group="editors-xtd" method="upgrade">
+	<name>PLG_EDITORS-XTD_MOBILEREADMORE</name>
+	<author>JoomlaNet</author>
+	<creationDate>August 2017</creationDate>
+	<copyright>Copyright (C) 2017 - 2017 Joomlanet. All Rights Reserved.</copyright>
+	<license>>http://www.gnu.org/copyleft/gpl.html GNU(GPL)</license>
+	<authorEmail>admin@joomlanet.ru</authorEmail>
+	<authorUrl>https://joomlanet.ru/</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_EDITORS-XTD_MOBILEREADMORE_DESCRIPTION</description>
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_editors-xtd_mobilereadmore.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_editors-xtd_mobilereadmore.sys.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_editors-xtd_mobilereadmore.ini</language>
+		<language tag="ru-RU">ru-RU/ru-RU.plg_editors-xtd_mobilereadmore.sys.ini</language>
+	</languages>
+	<scriptfile>script.php</scriptfile>
+	<files>
+		<folder>assets</folder>
+		<filename>index.html</filename>
+		<filename plugin="mobilereadmore">mobilereadmore.php</filename>
+	</files>
+	<config>
+		<fields name="params">
+			<fieldset name="basic">
+			</fieldset>
+		</fields>
+	</config>
+</extension>
